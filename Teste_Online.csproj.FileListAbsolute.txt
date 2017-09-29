@@ -1,0 +1,9 @@
+C:\Users\Grazielle\Desktop\Teste_Online\Teste_Online\bin\Debug\Teste_Online.exe
+C:\Users\Grazielle\Desktop\Teste_Online\Teste_Online\bin\Debug\Teste_Online.pdb
+C:\Users\Grazielle\Desktop\Teste_Online\Teste_Online\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Grazielle\Desktop\Teste_Online\Teste_Online\obj\Debug\Teste_Online.Form1.resources
+C:\Users\Grazielle\Desktop\Teste_Online\Teste_Online\obj\Debug\Teste_Online.Properties.Resources.resources
+C:\Users\Grazielle\Desktop\Teste_Online\Teste_Online\obj\Debug\Teste_Online.csproj.GenerateResource.Cache
+C:\Users\Grazielle\Desktop\Teste_Online\Teste_Online\obj\Debug\Teste_Online.exe
+C:\Users\Grazielle\Desktop\Teste_Online\Teste_Online\obj\Debug\Teste_Online.pdb
+C:\Users\Grazielle\Desktop\Teste_Online\Teste_Online\bin\Debug\MySql.Data.dll
